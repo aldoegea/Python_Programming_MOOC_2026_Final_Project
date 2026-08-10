@@ -9,6 +9,10 @@ Final Project for the "Advanced Python Programming 2026" course from University 
 
 ### ROBOT IN A MAZE
 
+🔗 [Abrir juego](https://github.com/aldoegea/Python_Programming_MOOC_2026_Final_Project/blob/29f3c7e4353b1632eba1d5f96abf86a40ba9e705/src/main.py)
+
+<br>
+
 ---
 
 1. About the game
