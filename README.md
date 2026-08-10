@@ -7,8 +7,6 @@ Final Project for the "Advanced Python Programming 2026" course from University 
 
 <br>
 
----
-
 ### ROBOT IN A MAZE
 
 ---
